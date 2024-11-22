@@ -1,3 +1,46 @@
+**<div>:** #
+Este é um elemento HTML padrão usado para definir uma "divisão" ou "seção" na página. Ele serve para agrupar outros elementos HTML e aplicar estilos ou comportamentos a eles.
+
+**className="App":**
+Em React, utiliza-se className (ao invés de class como no HTML) para definir a classe CSS de um elemento, pois class é uma palavra reservada no JavaScript. A classe "App" é normalmente associada a um estilo CSS que define a aparência ou comportamento do componente, como cores, fontes, margens, entre outros.
+
+
+**Navbar:**  
+Componente do Reactstrap utilizado para criar uma barra de navegação, essencial para estruturar o menu de navegação de um site ou aplicativo.
+
+**O atributo dark:**  
+Aplica um tema escuro, alterando as cores de fundo e texto para um contraste adequado, com fundo mais escuro e texto mais claro.
+
+**O atributo color="primary":**
+Define a cor de fundo da barra de navegação. A classe "primary" do Bootstrap aplica uma cor padrão (geralmente azul), garantindo consistência no design do site.
+
+
+
+**<div className="container">:**
+Elemento <div> com a classe container do Bootstrap, usada para centralizar o conteúdo na página e ajustar o layout para diferentes tamanhos de tela, garantindo que o conteúdo seja responsivo e bem apresentado em dispositivos de diversas resoluções.
+
+
+NavbarBrand href="/">Ristorante Con Fusion</NavbarBrand:  
+O componente <NavbarBrand> exibe o nome ou logo da aplicação na barra de navegação. O atributo href="/" especifica que, ao clicar no nome da marca, o usuário será redirecionado para a página inicial ("/"). "Ristorante Con Fusion" é o nome fictício da marca, representando o nome de um restaurante.
+
+
+<div>Aluno: Alysson</div>:  
+Este <div> contém uma linha de texto simples com a informação "Aluno: Alysson", indicando o nome do desenvolvedor ou responsável pelo código.
+
+<Navbar dark color="primary">
+ <div className="container">
+ <NavbarBrand href="/">Ristorante Con Fusion</NavbarBrand>
+ <div>Aluno: Alysson </div>
+ </div>
+ </Navbar>
+
+![alt text](<WhatsApp Image 2024-11-21 at 19.58.38.jpeg>)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
