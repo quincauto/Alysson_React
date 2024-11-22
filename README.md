@@ -34,7 +34,7 @@ Este <div> contém uma linha de texto simples com a informação "Aluno: Alysson
  </div>
  </Navbar>
 
-![alt text](<WhatsApp Image 2024-11-21 at 19.58.38.jpeg>)
+![alt text](img_navbar.jpeg)
 
 
 
